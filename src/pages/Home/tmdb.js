@@ -1,5 +1,6 @@
 
 const VALID_TYPES = ['movie', 'tv'];
+const API_KEY = "99ecd77086a17d467e77eb5ca54d4c5a";
 
 // Static mapping of genres
 export const GENRES = {
